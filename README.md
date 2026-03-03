@@ -98,4 +98,4 @@ This sample repo reflects how VRQA Labs approaches automation projects:
 
 If your team needs a robust Playwright framework (or migration from Selenium
 or Cypress), VRQA Labs offers full-service implementation, training and
-maintenance. Contact us at connect.vrqalabs@outlook.com to discuss your automation needs.
+maintenance. Contact us at **connect.vrqalabs@outlook.com** to discuss your automation needs.
