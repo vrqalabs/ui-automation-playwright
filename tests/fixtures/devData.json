@@ -1,0 +1,8 @@
+{
+  "user": {
+    "username": "dev_user",
+    "password": "dev_pass"
+  },
+  "searchTerm": "dev item",
+  "expectedTitle": "Development Environment"
+}

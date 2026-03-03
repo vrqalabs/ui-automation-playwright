@@ -1,0 +1,8 @@
+{
+  "user": {
+    "username": "stage_user",
+    "password": "stage_pass"
+  },
+  "searchTerm": "Brocolli",
+  "expectedTitle": "GreenKart - veg and fruits kart"
+}
