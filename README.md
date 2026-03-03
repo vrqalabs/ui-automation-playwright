@@ -26,8 +26,8 @@ The project uses only dev‑dependencies, so nothing is required server‑side.
 
 ```bash
 # clone the repo
-git clone <this-repo-url> vrqalabs-playwright
-cd vrqalabs-playwright
+git clone https://github.com/vrqalabs/ui-automation-playwright.git vrqalabs-playwrightui-automation-playwright
+cd vrqalabs-playwrightui-automation-playwright
 
 # install dependencies
 npm install
